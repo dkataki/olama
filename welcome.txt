@@ -12,3 +12,6 @@ Welcome to our first real cool LLM project which will be a typical RAG applicati
 < This is not the end , just a beginning />
 
 
+PIP libraries
+
+pip install -I langchain-community faiss-cpu langchain-huggingface pymupdf tiktoken langchain-ollama python-dotenv
