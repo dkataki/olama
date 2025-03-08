@@ -1,0 +1,14 @@
+----------------------------------------------------------------------------------
+Welcome to our first real cool LLM project which will be a typical RAG application.
+
+----------------------------------------------------------------------------------
+< Welcome to the world of LLM >
+ -----------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+< This is not the end , just a beginning />
+
+
